@@ -11,4 +11,8 @@ namespace UnitTestProject1
         {
         }
     }
+    public class noroc
+    {
+    console.writeline('noroc');
+    }
 }
