@@ -12,7 +12,9 @@ namespace UnitTestProject1
          console.writeline("asfds")
         }
     }
-    private class{
-    console.writeline('private classs');
+
+    public class noroc
+    {
+    console.writeline('noroc');
     }
 }
