@@ -9,12 +9,6 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-         console.writeline("asfds")
         }
-    }
-
-    public class noroc
-    {
-    console.writeline('noroc');
     }
 }
